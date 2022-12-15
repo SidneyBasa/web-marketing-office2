@@ -9,7 +9,7 @@ Then cloned the new repository into my machine and thus created a new .git file 
 I transferred my html, css and image assets into the local machine, added and pushed back here, completing the project. 
 Credit to UW coding bootcamp teaching assistant Justice Brown.
 
-![alt text](https://github.com/SidneyBasa/web-marketing-office2/blob/main/assets/images/screenshot.jpg?raw=true)
+![A team of four marketing professionals, strategizing the next marketing campaign.](https://github.com/SidneyBasa/web-marketing-office2/blob/main/assets/images/screenshot.jpg?raw=true)
 
 ## Credits
 
